@@ -1,2 +1,3 @@
-# Stride - Bootstrap 5 HTML template
-A simple but clean Bootstrap 5 HTML template from https://templatedeck.com
+# SRL Skunworks Website
+
+This repository holds the source code for the SRL Skunkworks public website.
